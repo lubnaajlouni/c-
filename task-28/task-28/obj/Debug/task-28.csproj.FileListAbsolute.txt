@@ -1,0 +1,8 @@
+C:\Users\User-pc\Desktop\task-28\task-28\bin\Debug\task-28.exe.config
+C:\Users\User-pc\Desktop\task-28\task-28\bin\Debug\task-28.exe
+C:\Users\User-pc\Desktop\task-28\task-28\bin\Debug\task-28.pdb
+C:\Users\User-pc\Desktop\task-28\task-28\obj\Debug\task-28.csproj.AssemblyReference.cache
+C:\Users\User-pc\Desktop\task-28\task-28\obj\Debug\task-28.csproj.SuggestedBindingRedirects.cache
+C:\Users\User-pc\Desktop\task-28\task-28\obj\Debug\task-28.csproj.CoreCompileInputs.cache
+C:\Users\User-pc\Desktop\task-28\task-28\obj\Debug\task-28.exe
+C:\Users\User-pc\Desktop\task-28\task-28\obj\Debug\task-28.pdb
